@@ -1,4 +1,4 @@
-# Cadastro-de-S-rie
+# Cadastro de Séries - Em C# 
 
 
 Curso DIO
