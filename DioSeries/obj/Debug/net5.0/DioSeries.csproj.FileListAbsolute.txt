@@ -1,0 +1,16 @@
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.exe
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.deps.json
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.json
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.runtimeconfig.dev.json
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.dll
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\ref\DioSeries.dll
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\bin\Debug\net5.0\DioSeries.pdb
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.csproj.AssemblyReference.cache
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfoInputs.cache
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.AssemblyInfo.cs
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.csproj.CoreCompileInputs.cache
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.dll
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\ref\DioSeries.dll
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.pdb
+C:\Users\lusa2\Desktop\Programação\Projetos\DioSeries\obj\Debug\net5.0\DioSeries.genruntimeconfig.cache
