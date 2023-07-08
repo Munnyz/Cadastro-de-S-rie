@@ -1,7 +1,5 @@
-# Cadastro de Séries - Em C# 
+# Cadastro de Séries em C# 
+Listar, Criar(Inserir), Atualizar, Excluir, Vizualizar as séries no CMD;
 
-
-Curso DIO
-------
-
+Feito para o curso DIO / .NET5.0
 by; Lucas Salles / Munnyz
